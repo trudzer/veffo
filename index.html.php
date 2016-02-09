@@ -18,15 +18,17 @@
 		<!-- Intro -->
 			<section id="intro" class="main style1 dark fullscreen" style='background: url("images/overlay.png"), url("<?php include "php/intro.php";?>")'>
 				
+			
 				<div class="content container 75%">
 					<header>
 						<h2 id="thick">Hello</h2>
 					</header>
-					<p id="thick">Welcome to <strong>PictureBook</strong>.</p>
+					<p id="thicker">Welcome to <strong>PictureBook</strong>.</p>
 					<footer>
 						<a id="thick" href="#one" class="button style2 down">More</a>
 					</footer>
 				</div>
+
 			</section>
 		<!-- One -->
 			<section id="one" class="main style2 right dark fullscreen">
@@ -38,7 +40,7 @@
 					Fusce blandit ultrices sapien, in accumsan orci rhoncus eu. Sed sodales venenatis arcu,
 					id varius justo euismod in. Curabitur egestas consectetur magna.</p>
 				</div>
-				<a id="thick" href="#work" class="button style2 down anchored">Next</a>
+				<a href="#work" class="button style2 down anchored">Next</a>
 			</section>
 
 
