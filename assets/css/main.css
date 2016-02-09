@@ -1923,6 +1923,15 @@
 		margin-bottom: 0;
 	}
 
+	#thick {
+					color: white;
+					text-shadow:
+					-1px -1px 0 #000,
+					 1px -1px 0 #000,
+					-1px -1px 0 #000,
+					 1px -1px 0 #000;
+	}
+
 /* Image */
 
 	.image {
@@ -2869,7 +2878,7 @@
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/intro.jpg");
+		
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;

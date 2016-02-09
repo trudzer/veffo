@@ -16,9 +16,18 @@
 				include "php/header.php";
 			?>
 		<!-- Intro -->
-			<?php
-				include "php/intro.php";
-			?>
+			<section id="intro" class="main style1 dark fullscreen" style='background: url("images/overlay.png"), url("<?php include "php/intro.php";?>")'>
+				
+				<div class="content container 75%">
+					<header>
+						<h2 id="thick">Hello</h2>
+					</header>
+					<p id="thick">Welcome to <strong>PictureBook</strong>.</p>
+					<footer>
+						<a id="thick" href="#one" class="button style2 down">More</a>
+					</footer>
+				</div>
+			</section>
 		<!-- One -->
 			<section id="one" class="main style2 right dark fullscreen">
 				<div class="content box style2">
@@ -29,8 +38,9 @@
 					Fusce blandit ultrices sapien, in accumsan orci rhoncus eu. Sed sodales venenatis arcu,
 					id varius justo euismod in. Curabitur egestas consectetur magna.</p>
 				</div>
-				<a href="#work" class="button style2 down anchored">Next</a>
+				<a id="thick" href="#work" class="button style2 down anchored">Next</a>
 			</section>
+
 
 		<!-- Work -->
 			<section id="work" class="main style3 primary">
@@ -52,7 +62,7 @@
 							
 								<div class="6u 12u(mobile)"><a href="images/fulls/01.jpg" class="image fit "><img src="images/thumbs/01.jpg" title="The Anonymous Red" alt="" /></a></div>
 								
-								<div class="6u 12u(mobile)"><a href="images/fulls/06.jpg" class="image fit "><img src="images/thumbs/02.jpg" title="Airchitecture II" alt="" /></a></div>
+								<div class="6u 12u(mobile)"><a href="images/fulls/02.jpg" class="image fit "><img src="images/thumbs/02.jpg" title="Airchitecture II" alt="" /></a></div>
 							
 								
 							</div>
