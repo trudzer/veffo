@@ -1,7 +1,8 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Big Picture by HTML5 UP</title>
+		<title>PictureBook</title>
+		<link rel="shortcut icon" type="image/x-icon" href="images/PBicon.ico" />
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
