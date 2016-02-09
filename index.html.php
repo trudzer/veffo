@@ -62,9 +62,13 @@
 								<div class="6u 12u(mobile)"><a href="images/fulls/02.jpg" class="image fit "><img src="images/thumbs/02.jpg" title="Airchitecture II" alt="" /></a></div>
 						
 							
-								<div class="6u 12u(mobile)"><a href="images/fulls/01.jpg" class="image fit "><img src="images/thumbs/01.jpg" title="The Anonymous Red" alt="" /></a></div>
+								<div class="6u 12u(mobile)"><a href="images/fulls/03.jpg" class="image fit "><img src="images/thumbs/03.jpg" title="The Anonymous Red" alt="" /></a></div>
 								
-								<div class="6u 12u(mobile)"><a href="images/fulls/02.jpg" class="image fit "><img src="images/thumbs/02.jpg" title="Airchitecture II" alt="" /></a></div>
+								<div class="6u 12u(mobile)"><a href="images/fulls/04.jpg" class="image fit "><img src="images/thumbs/04.jpg" title="Airchitecture II" alt="" /></a></div>
+
+								<div class="6u 12u(mobile)"><a href="images/fulls/05.jpg" class="image fit "><img src="images/thumbs/05.jpg" title="The Anonymous Red" alt="" /></a></div>
+								
+								<div class="6u 12u(mobile)"><a href="images/fulls/06.jpg" class="image fit "><img src="images/thumbs/06.jpg" title="Airchitecture II" alt="" /></a></div>
 							
 								
 							</div>
@@ -92,12 +96,12 @@
 
 				<!-- Icons -->
 					<ul class="actions">
-						<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a href="#" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
-						<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-						<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
-						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="http://www.twitter.com" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="http://www.facebook.com" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="http://www.plus.google.com" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
+						<li><a href="http://www.dribbble.com" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+						<li><a href="http://www.pintrest.com" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
+						<li><a href="http://www.instagram.com" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 					</ul>
 
 				<!-- Menu -->
